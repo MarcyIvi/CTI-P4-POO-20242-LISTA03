@@ -46,7 +46,7 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 
 Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
 
-**1. Baixando e Instalando o Eclipse.**
+### **1. Baixando e Instalando o Eclipse.**
 
 **Passo 1:** Acesse o site oficial do Eclipse.
 - Abra o seu navegador e vá até o [site oficial do Eclipse.](https://www.eclipse.org/downloads/)
@@ -67,7 +67,7 @@ Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das I
 - Siga as instruções do assistente de instalação. O Eclipse será instalado no seu computador em um diretório escolhido por você.
 - Ao final da instalação, o Eclipse estará pronto para ser aberto.
 
-**2. Instalando o JDK (Java Development Kit).**
+### **2. Instalando o JDK (Java Development Kit).**
    
 O JDK é um componente essencial para programar em Java. Ele contém todas as ferramentas necessárias para compilar e rodar programas Java. O Eclipse depende do JDK para criar e executar seus projetos em Java.
 
@@ -93,7 +93,7 @@ O JDK é um componente essencial para programar em Java. Ele contém todas as fe
 - Clique em **Add** e escolha o tipo de JRE (selecione **Standard VM**).
 - Em seguida, clique em **Directory** e localize a pasta onde o JDK foi instalado. Após selecionar o diretório correto, clique em **OK** para finalizar a configuração.
 
-**4. Criando o Primeiro Projeto Java no Eclipse.**
+### **4. Criando o Primeiro Projeto Java no Eclipse.**
 
 **Passo 1: Crie um novo projeto Java.**
 - No Eclipse, vá até o menu File > New > Java Project.
@@ -114,7 +114,7 @@ O JDK é um componente essencial para programar em Java. Ele contém todas as fe
 - Para rodar o programa, clique com o botão direito sobre o nome da classe no painel esquerdo e selecione Run As > Java Application.
 - O Eclipse compilará e executará o programa. Você verá a saída "Olá, Mundo!" na janela Console na parte inferior da tela.
 
-**5. Próximos Passos.**
+### **5. Próximos Passos.**
 Agora que você tem o Eclipse instalado e rodando, pode seguir para os próximos passos na sua jornada de aprendizado em Java:
 - Estude os conceitos básicos de Java: Aprenda sobre estruturas de controle (como for, while, if e else), tipos de dados e operações com variáveis.
 - Explore a documentação do Java: O Eclipse oferece uma excelente integração com a documentação do Java. Use o recurso de Auto-Completion para aprender mais sobre as bibliotecas Java.
