@@ -42,7 +42,7 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
 
 ------
-## 📚 Guia Completo para Instalar o Eclipse e Iniciar sua Jornada na Programação em Java
+#📚 Guia Completo para Instalar o Eclipse e Iniciar sua Jornada na Programação em Java
 
 Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
 
