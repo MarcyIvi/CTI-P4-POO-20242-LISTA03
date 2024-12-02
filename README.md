@@ -60,7 +60,7 @@ Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das I
 - Para programar em Java, selecione a opção Eclipse IDE for Java Developers.
 - Clique no botão "Download" e aguarde o arquivo de instalação ser baixado.
 
-<img src="https://www.eclipse.org/downloads/assets/public/images/installer-instructions-03.png" width="auto" height="200px" alt="Java for Developers">
+<img src="https://www.eclipse.org/downloads/assets/public/images/installer-instructions-03.png" width="auto" height="400px" alt="Java for Developers">
 
 **Passo 3: Instale o Eclipse.**
 - Depois que o arquivo de instalação for baixado, execute o instalador.
