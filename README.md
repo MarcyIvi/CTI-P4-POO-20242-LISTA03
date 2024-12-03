@@ -103,7 +103,7 @@ Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das I
 - Para rodar o programa, clique com o botão direito sobre o nome da classe no painel esquerdo e selecione Run As > Java Application.
 - O Eclipse compilará e executará o programa. Você verá a saída "Olá, Mundo!" na janela Console na parte inferior da tela.
 
-## **5. Próximos Passos.**
+## **Próximos Passos.**
 Agora que você tem o Eclipse instalado e rodando, pode seguir para os próximos passos na sua jornada de aprendizado em Java:
 - Estude os conceitos básicos de Java: Aprenda sobre estruturas de controle (como for, while, if e else), tipos de dados e operações com variáveis.
 - Explore a documentação do Java: O Eclipse oferece uma excelente integração com a documentação do Java. Use o recurso de Auto-Completion para aprender mais sobre as bibliotecas Java.
