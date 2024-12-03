@@ -32,7 +32,7 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 - [👾 Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
 - [🤖 Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
 - [👾 Sally Gosson Viana Colombo](https://github.com/sallygosson)
-- [🤖 Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
+- [🤖 Francisco Israel Alves Barbosa](https://github.com/fc.israelalves)
 
 
 ------
