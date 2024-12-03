@@ -77,7 +77,7 @@ Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das I
 - Escolha um local no seu computador para o workspace (a pasta onde seus projetos serão salvos).
 - Clique em **"Launch"** para iniciar o Eclipse.
 
-### **Passo 7: Verificar a Instalação do Java no Eclipse.**
+## **Passo 7: Verificar a Instalação do Java no Eclipse.**
 - Dentro do Eclipse, vá até Window > Preferences.
 - Navegue até Java > Installed JREs para verificar as versões do Java configuradas.
 - Se necessário, adicione um JDK manualmente clicando em "Add" e selecionando o caminho para o diretório de instalação do Java.
