@@ -46,54 +46,43 @@ As atividades desenvolvidas ao longo da disciplina tiveram como objetivo aprimor
 
 Este guia irá te acompanhar passo a passo na instalação do Eclipse, uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares para programação em Java, e te ajudar a começar a escrever seus primeiros programas em Java.
 
-## **1. Baixando e Instalando o Eclipse.**
-
-### **Passo 1:** Acesse o site oficial do Eclipse.
-- Abra o seu navegador e vá até o [site oficial do Eclipse.](https://www.eclipse.org/downloads/)
-
-- Clique em “Download 4.x” (a versão mais recente disponível).
-- O site detectará automaticamente o sistema operacional que você está usando (Windows, macOS ou Linux).
+## **Passo 1:** Baixar o Eclipse Installer.
+- Abra o seu navegador e vá até o [site oficial do Eclipse.](https://www.eclipse.org/downloads/).
+- Clique no botão "Download x86_64" para baixar o Eclipse Installer adequado ao seu sistema operacional.
 
 <img src="https://logowik.com/content/uploads/images/eclipse5466.jpg" width="auto" height="200px" alt="logo eclipse">
 
-### **Passo 2:** Escolha a versão certa do Eclipse.
-- Para programar em Java, selecione a opção Eclipse IDE for Java Developers.
-- Clique no botão "Download" e aguarde o arquivo de instalação ser baixado.
+## **Passo 2:** Executar o Eclipse Installer.
+- Após o download, localize o arquivo no seu computador e abra o instalador.
+- Aguarde até que o instalador carregue as opções disponíveis.
+
+## **Passo 3: Escolher o Pacote do Eclipse**
+- O Eclipse Installer oferece vários pacotes. Para desenvolvimento em Java, escolha:
+        "Eclipse IDE for Java Developers" (caso você trabalhe apenas com Java)
+         Ou "Eclipse IDE for Enterprise Java and Web Developers" (se planeja trabalhar com aplicações web e ferramentas adicionais).
+- Clique no botão "INSTALL" para iniciar a instalação.
 
 <img src="https://www.eclipse.org/downloads/assets/public/images/installer-instructions-03.png" width="auto" height="400px" alt="Java for Developers">
 
-**Passo 3: Instale o Eclipse.**
-- Depois que o arquivo de instalação for baixado, execute o instalador.
-- Siga as instruções do assistente de instalação. O Eclipse será instalado no seu computador em um diretório escolhido por você.
-- Ao final da instalação, o Eclipse estará pronto para ser aberto.
-
-## **2. Instalando o JDK (Java Development Kit).**
+## **Passo 4: Aceitar os Termos de Licença**
    
-O JDK é um componente essencial para programar em Java. Ele contém todas as ferramentas necessárias para compilar e rodar programas Java. O Eclipse depende do JDK para criar e executar seus projetos em Java.
+- Leia e aceite os termos de licença (se necessário).
+- O instalador começará a baixar e configurar os arquivos do Eclipse.
 
-### **Passo 1: Baixe o JDK.**
-- Acesse o site da [Oracle](https://www.oracle.com/java/technologies/downloads/#java11?er=221886) ou do [AdoptOpenJDK](https://adoptium.net/), uma alternativa open-source.
-- Escolha a versão mais recente do JDK (recomendamos a versão 11 ou superior, pois são versões estáveis e com suporte a longo prazo).
-- Baixe o instalador adequado para o seu sistema operacional (Windows, macOS ou Linux).
+## **Passo 5: Configurar o Java (caso necessário).**
+- Se você ainda não tem o Java instalado, o Eclipse Installer baixará e configurará automaticamente uma versão do JDK (Java Development Kit) compatível durante a instalação.
 
-### **Passo 2: Instale o JDK.**
-- Execute o instalador do JDK e siga as instruções na tela.
-- Durante a instalação, o caminho do JDK será configurado automaticamente, mas você pode revisar ou modificar a instalação, caso necessário.
+## **Passo 6: Finalizar a Instalação.**
+- Após a conclusão, clique em **"LAUNCH"** para abrir o Eclipse.
+- Escolha um local no seu computador para o workspace (a pasta onde seus projetos serão salvos).
+- Clique em **"Launch"** para iniciar o Eclipse.
 
-## **3. Configurando o Eclipse para usar o JDK.**
+### **Passo 7: Verificar a Instalação do Java no Eclipse.**
+- Dentro do Eclipse, vá até Window > Preferences.
+- Navegue até Java > Installed JREs para verificar as versões do Java configuradas.
+- Se necessário, adicione um JDK manualmente clicando em "Add" e selecionando o caminho para o diretório de instalação do Java.
 
-### **Passo 1: Abra o Eclipse.**
-- Após a instalação do Eclipse e do JDK, abra o Eclipse.
-
-### **Passo 2: Configurando o JDK no Eclipse.**
-- Ao abrir o Eclipse, ele pedirá para você selecionar um diretório de trabalho (workspace), onde os seus projetos serão salvos.
-- Após escolher o workspace, o Eclipse será iniciado.
-- Para garantir que o Eclipse está utilizando a versão correta do JDK, vá até o menu **Window** > **Preferences**.
-- No painel esquerdo, selecione **Java** > **Installed JREs**.
-- Clique em **Add** e escolha o tipo de JRE (selecione **Standard VM**).
-- Em seguida, clique em **Directory** e localize a pasta onde o JDK foi instalado. Após selecionar o diretório correto, clique em **OK** para finalizar a configuração.
-
-## **4. Criando o Primeiro Projeto Java no Eclipse.**
+# **Criando o Primeiro Projeto Java no Eclipse.**
 
 ### **Passo 1: Crie um novo projeto Java.**
 - No Eclipse, vá até o menu File > New > Java Project.
